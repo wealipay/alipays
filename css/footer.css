@@ -1,0 +1,8 @@
+#footer p
+{
+   color:white;
+}
+#footer .active p
+{
+   color:black;
+}
